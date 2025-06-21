@@ -1,4 +1,4 @@
-<h1 align="center">Hare Krishn, I'm Jiya Garg</h1>
+<h1 align="center">Hey, I'm Jiya Garg</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F672D9&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Next.js+%7C+React+%7C+AI+%7C+DevOps;Building+Production-Ready+Apps" alt="Typing SVG showing role" />
