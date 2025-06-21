@@ -16,6 +16,7 @@
 [![CapShare](https://img.shields.io/badge/CapShare-Screen_Recorder-F672D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/jiyagarg03/capshare-app)
 [![Pitchbase](https://img.shields.io/badge/Pitchbase-Startup_Directory-F672D9?style=for-the-badge&logo=sanity&logoColor=white)](https://github.com/jiyagarg03/pitchbase-app)
 [![PrepNexus](https://img.shields.io/badge/PrepNexus-AI_Interviews-F672D9?style=for-the-badge&logo=google&logoColor=white)](https://github.com/jiyagarg03/prepnexus-ai)
+[![CataractSense](https://img.shields.io/badge/CataractSense-Ocular_Detection-F672D9?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/jiyagarg03/CataractSense-DP)
 [![Havenstay](https://img.shields.io/badge/Havenstay-Travel_Finder-F672D9?style=for-the-badge&logo=airbnb&logoColor=white)](https://github.com/jiyagarg03/wanderlust)
 
 ---
