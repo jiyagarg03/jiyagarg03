@@ -25,7 +25,7 @@
 
 <p align="center">
   <img width="46%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyagarg03&layout=compact&theme=radical&title_color=F672D9&text_color=ffffff&bg_color=0d1117&cache_bust=1" alt="Top languages" />
-  <img width="50%" height="170px" src="https://github-readme-stats.vercel.app/api?username=jiyagarg03&show_icons=true&hide=prs,issues&theme=radical&title_color=F672D9&icon_color=F672D9&text_color=ffffff&bg_color=0d1117&cache_bust=1" alt="GitHub stats" />
+  <img width="50%" height="170px" src="https://github-readme-stats.vercel.app/api?username=jiyagarg03&show_icons=true&hide=prs,issues&theme=radical&title_color=F672D9&icon_color=F672D9&text_color=ffffff&bg_color=0d1117&cache_bust=1&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
 
