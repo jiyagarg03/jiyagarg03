@@ -9,7 +9,7 @@
 ### About Me
 
 - 4th-year Computer Science Engineering student at NSUT  
-- Passionate about full-stack web development, scalable infra & AI integration  
+- Passionate about DSA, full-stack web development, scalable infra & AI integration  
 - I build end-to-end products that *actually ship* – not just side projects  
 - Featured projects:
 
