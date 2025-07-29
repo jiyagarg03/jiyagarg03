@@ -54,7 +54,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiya%20Garg-F672D9?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jiya-garg-656368265/)
 
-[![Email](https://img.shields.io/badge/Email-jiyagarg03%40gmail.com-F672D9?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jiyagarg03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jiya.grg03%40gmail.com-F672D9?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jiyagarg03@gmail.com)
 
 ---
 
